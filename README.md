@@ -5,12 +5,6 @@ I am currently a Postdoctoral Research Fellow at the National University of Sing
 
 Before joining CTIC, I developed a deep interest in leveraging machine learning to explore psychological phenomena. This led me to pursue a Ph.D. in Data Science at the Institute of Data Science, NUS in 2020. Under the mentorship of Assistant Professor Kokil Jaidka and Professor Mike Cheung, my doctoral research examined cognitive-affective constructs—such as appraisals and emotions—expressed in first-person autobiographical text and how these are perceived by other readers (third-person) in the context of consumer behavior. Grounded in psychological theories, I developed computational models of these constructs using methods from Natural Language Processing (NLP) and machine learning.
 
-## Ongoing research
-
--Developing computational models of language to uncover insights into affect, cognition, and behavior, grounded in psychological theory.
--Improving social-cognitive (e.g. Theory-of-Mind) and analogical reasoning in Large Language Models (LLMs)
--Investigating value alignment in LLMs through model steering techniques.
-
 Broadly, I am passionate about two intersecting areas: using computational methods to better understand psychological phenomena expressed in text, and applying psychological principles to improve the design and capabilities of Artificial Intelligence (AI).
 
 If you are interested in collaborating—whether it’s studying psychological constructs in language, applying psychology to advance machine learning, or engaging in theory-driven psychological research—please feel free to reach out to me at gerardyeo4 [at] gmail.com.
