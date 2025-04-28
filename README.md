@@ -1,11 +1,19 @@
 ### Hi there 👋
 
 ## 😄 About me
-I am currently a Ph.D. student under the Institute of Data Science in the National University of Singapore. 
+I am currently a Postdoctoral Research Fellow at the National University of Singapore (NUS) Centre for Trusted Internet and Community (CTIC). My research focuses on understanding how consumers perceive trust in digital environments and how these perceptions shape their behaviors.
 
-🔭 I’m currently working on understanding psychological phenomena in data using computational methods. More specifically, my research revolves around understanding cognitive (e.g. appraisals) and affective (e.g. emotions) constructs in text using computational methods, informed by Theories of Emotions. 
+Before joining CTIC, I developed a deep interest in leveraging machine learning to explore psychological phenomena. This led me to pursue a Ph.D. in Data Science at the Institute of Data Science, NUS in 2020. Under the mentorship of Assistant Professor Kokil Jaidka and Professor Mike Cheung, my doctoral research examined cognitive-affective constructs—such as appraisals and emotions—expressed in first-person autobiographical text and how these are perceived by other readers (third-person) in the context of consumer behavior. Grounded in psychological theories, I developed computational models of these constructs using methods from Natural Language Processing (NLP) and machine learning.
 
-👯 I'm looking to collaborate with other scholars and scientists who are interested in studying various theories of emotions (e.g. Cognitive Appraisal Theory) and its applications in understanding first- and third-person emotional experiences in text. 
+## Ongoing research
+
+-Developing computational models of language to uncover insights into affect, cognition, and behavior, grounded in psychological theory.
+-Improving social-cognitive (e.g. Theory-of-Mind) and analogical reasoning in Large Language Models (LLMs)
+-Investigating value alignment in LLMs through model steering techniques.
+
+Broadly, I am passionate about two intersecting areas: using computational methods to better understand psychological phenomena expressed in text, and applying psychological principles to improve the design and capabilities of Artificial Intelligence (AI).
+
+If you are interested in collaborating—whether it’s studying psychological constructs in language, applying psychology to advance machine learning, or engaging in theory-driven psychological research—please feel free to reach out to me at gerardyeo4 [at] gmail.com.
 <!--
 **GerardYeo/GerardYeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
